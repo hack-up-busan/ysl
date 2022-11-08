@@ -62,7 +62,7 @@ class MyApp extends StatelessWidget {
                             ),
                             Container(
                               child: Center(
-                                child: Text('page 2'),
+                                child: Text('page 2-1'),
                               ),
                             ),
                           ],
